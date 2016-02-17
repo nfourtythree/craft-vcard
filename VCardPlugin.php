@@ -214,7 +214,6 @@ class VCardPlugin extends BasePlugin
     public function registerSiteRoutes()
     {
         return array(
-           'x/vcard/(?P<vcard>.*)' => 'x/vcard'
         );
     }
 
