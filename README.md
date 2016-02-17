@@ -258,3 +258,4 @@ Brought to you by [nfourtythree (n43.me)](http://n43.me)
 
 - Jeroen Desloovere - https://github.com/jeroendesloovere/vcard
 - nystudio107 - https://github.com/nystudio107/generator-craftplugin (for just making life easier / quicker)
+- Chris Rowe - http://chrisrowe.net for the idea to make this plugin
