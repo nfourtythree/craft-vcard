@@ -1,0 +1,13 @@
+{
+    "name": "nfourtythree/craft-vcard",
+    "description": "vcard link generator plugin for Craft",
+    "require": {
+        "jeroendesloovere/vcard": "1.2.*"
+    },
+    "authors": [
+        {
+            "name": "Nathaniel Hammond",
+            "email": "nathanielhammond@gmail.com"
+        }
+    ]
+}
