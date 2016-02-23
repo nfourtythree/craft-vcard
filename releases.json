@@ -1,5 +1,13 @@
 [
     {
+        "version": "1.0.1",
+        "downloadUrl": "https://github.com/nfourtythree/craft-vcard/archive/master.zip",
+        "date": "2016-02-23T16:08:59.998Z",
+        "notes": [
+            "[Fixed] Issue with vcard controller links creating 404s"
+        ]
+    },
+    {
         "version": "1.0.0",
         "downloadUrl": "https://github.com/nfourtythree/craft-vcard/archive/master.zip",
         "date": "2016-02-17T12:13:59.998Z",

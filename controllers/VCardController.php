@@ -31,5 +31,7 @@ class VCardController extends BaseController
         $options = craft()->vCard->decodeUrlParam($vcard);
 
         craft()->vCard->generateVcard($options);
+
+        craft()->end();
     }
 }

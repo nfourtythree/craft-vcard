@@ -248,6 +248,10 @@ type | String | type may be DOM | INTL | POSTAL | PARCEL | HOME | WORK or any co
 
 ## vCard Changelog
 
+### 1.0.1 -- 2016.02.23
+
+* Fixed: Issue with vcard controller links creating 404s
+
 ### 1.0.0 -- 2016.02.16
 
 * Initial release
